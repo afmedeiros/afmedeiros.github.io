@@ -1,2 +1,2 @@
 # afmedeiros.github.io
-Currículo do Jornada Dev
+JDev
